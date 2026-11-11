@@ -1,0 +1,11 @@
+Subject: Application — {role} at {company}
+
+Hi,
+
+I'm applying for the {role} position at {company} — CV attached.
+
+I'm a BSc Computer Science graduate with a background in C/C++ and Linux systems development, and I've also completed Infinity Labs' C/C++ program.
+
+Daniel Novojilovsky
+https://www.linkedin.com/in/daniel-novojilovsky/
+https://github.com/danielnovoji

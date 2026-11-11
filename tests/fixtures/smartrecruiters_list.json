@@ -1,0 +1,418 @@
+{
+ "offset": 0,
+ "limit": 100,
+ "totalFound": 41,
+ "content": [
+  {
+   "id": "744000160849405",
+   "name": "Events Operations Specialist - Temporary Position (6 months)",
+   "uuid": "ff7582c7-6559-49ae-9bd6-137059082e9f",
+   "jobAdId": "dd8d91d9-f770-412c-b9d9-936ff28987b6",
+   "defaultJobAd": true,
+   "refNumber": "REF398R",
+   "company": {
+    "identifier": "CheckPointSoftwareTechnologies2",
+    "name": "Check Point Software Technologies"
+   },
+   "releasedDate": "2026-11-10T11:26:28.150Z",
+   "location": {
+    "city": "Tel Aviv-Yafo",
+    "region": "Tel Aviv District",
+    "country": "il",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "32.0852999",
+    "longitude": "34.78176759999999",
+    "fullLocation": "Tel Aviv-Yafo, Tel Aviv District, Israel"
+   },
+   "industry": {
+    "id": "computer_software",
+    "label": "Computer Software"
+   },
+   "department": {},
+   "function": {
+    "id": "marketing",
+    "label": "Marketing"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+   },
+   "customField": [
+    {
+     "fieldId": "6a21aa1206dc5007efef6da3",
+     "fieldLabel": "Employment Percentage",
+     "valueId": "100",
+     "valueLabel": "100%"
+    },
+    {
+     "fieldId": "6a21a72e57f3707f05fe7c96",
+     "fieldLabel": "CP Department",
+     "valueId": "114",
+     "valueLabel": "Marketing"
+    },
+    {
+     "fieldId": "6a21a7d2311f6c9c65f6d0c9",
+     "fieldLabel": "Office Location",
+     "valueId": "97203",
+     "valueLabel": "Tel-Aviv"
+    },
+    {
+     "fieldId": "6a21ad5ef46fc3803795b44e",
+     "fieldLabel": "HRP",
+     "valueId": "9528",
+     "valueLabel": "Ronit Gillon"
+    },
+    {
+     "fieldId": "6a2a844349a1a3a8872e7750",
+     "fieldLabel": "Evergreen Job",
+     "valueId": "432cfa9d-a08c-4d7a-90ad-6498284f4d8c",
+     "valueLabel": "No"
+    },
+    {
+     "fieldId": "6aa7bce541de471b23dcd35d",
+     "fieldLabel": "Cost Center",
+     "valueId": "1507",
+     "valueLabel": "Customer Experience Marketing IL (1507)"
+    },
+    {
+     "fieldId": "6a21b4a18c40edfe81d1d604",
+     "fieldLabel": "Career site Category",
+     "valueId": "8",
+     "valueLabel": "Marketing"
+    },
+    {
+     "fieldId": "6a86a07dbc112cc8da711786",
+     "fieldLabel": "Sub-Region",
+     "valueId": "12",
+     "valueLabel": "Israel"
+    },
+    {
+     "fieldId": "6a21a7591f561247defa7adb",
+     "fieldLabel": "Team",
+     "valueId": "9041646",
+     "valueLabel": "Global Events (Tracy Adani)"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "il",
+     "valueLabel": "Israel"
+    },
+    {
+     "fieldId": "69fb2260d32371e2f69d4e72",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Check Point Software Technologies"
+    },
+    {
+     "fieldId": "6a21a824214450174406f79c",
+     "fieldLabel": "Employment Type",
+     "valueId": "9",
+     "valueLabel": "Employee"
+    },
+    {
+     "fieldId": "6a33ccaa0f2acdd461645977",
+     "fieldLabel": "C-Level",
+     "valueId": "19724",
+     "valueLabel": "Rafi Kretchmer"
+    },
+    {
+     "fieldId": "6a21a790b89f6c3d3b565ae2",
+     "fieldLabel": "Region",
+     "valueId": "100",
+     "valueLabel": "IL"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/CheckPointSoftwareTechnologies2/postings/744000160849405",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000160804787",
+   "name": "Software Engineer ",
+   "uuid": "1bc49752-750c-4c2d-b3a6-0e43faf206fc",
+   "jobAdId": "33b4227b-a2fe-43a9-8b8f-e9bb7ad1b25c",
+   "defaultJobAd": true,
+   "refNumber": "REF319Q",
+   "company": {
+    "identifier": "CheckPointSoftwareTechnologies2",
+    "name": "Check Point Software Technologies"
+   },
+   "releasedDate": "2026-11-10T07:17:52.817Z",
+   "location": {
+    "city": "Tel Aviv-Yafo",
+    "region": "Tel Aviv District",
+    "country": "il",
+    "remote": false,
+    "hybrid": true,
+    "latitude": "32.0852999",
+    "longitude": "34.78176759999999",
+    "fullLocation": "Tel Aviv-Yafo, Tel Aviv District, Israel"
+   },
+   "industry": {
+    "id": "computer_software",
+    "label": "Computer Software"
+   },
+   "department": {},
+   "function": {
+    "id": "engineering",
+    "label": "Engineering"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "mid_senior_level",
+    "label": "Mid-Senior Level"
+   },
+   "customField": [
+    {
+     "fieldId": "6a21aa1206dc5007efef6da3",
+     "fieldLabel": "Employment Percentage",
+     "valueId": "100",
+     "valueLabel": "100%"
+    },
+    {
+     "fieldId": "6a21a72e57f3707f05fe7c96",
+     "fieldLabel": "CP Department",
+     "valueId": "130",
+     "valueLabel": "Workspace Security"
+    },
+    {
+     "fieldId": "6a21a7d2311f6c9c65f6d0c9",
+     "fieldLabel": "Office Location",
+     "valueId": "97203",
+     "valueLabel": "Tel-Aviv"
+    },
+    {
+     "fieldId": "6a2a844349a1a3a8872e7750",
+     "fieldLabel": "Evergreen Job",
+     "valueId": "432cfa9d-a08c-4d7a-90ad-6498284f4d8c",
+     "valueLabel": "No"
+    },
+    {
+     "fieldId": "6aa7bce541de471b23dcd35d",
+     "fieldLabel": "Cost Center",
+     "valueId": "1370",
+     "valueLabel": "Endpoint Security (1370)"
+    },
+    {
+     "fieldId": "6a21ad5ef46fc3803795b44e",
+     "fieldLabel": "HRP",
+     "valueId": "29854",
+     "valueLabel": "Limor Sella Broyde"
+    },
+    {
+     "fieldId": "6a21b4a18c40edfe81d1d604",
+     "fieldLabel": "Career site Category",
+     "valueId": "10",
+     "valueLabel": "R&D"
+    },
+    {
+     "fieldId": "6a86a07dbc112cc8da711786",
+     "fieldLabel": "Sub-Region",
+     "valueId": "12",
+     "valueLabel": "Israel"
+    },
+    {
+     "fieldId": "6a21ad14311f6c9c65f6d0ca",
+     "fieldLabel": "Referral Category",
+     "valueId": "0",
+     "valueLabel": "Standard Position"
+    },
+    {
+     "fieldId": "6a21a7591f561247defa7adb",
+     "fieldLabel": "Team",
+     "valueId": "9043798",
+     "valueLabel": "Endpoint EPMaaS, On-prem, XDR (Alon Cohen Zada)"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "il",
+     "valueLabel": "Israel"
+    },
+    {
+     "fieldId": "69fb2260d32371e2f69d4e72",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Check Point Software Technologies"
+    },
+    {
+     "fieldId": "6a21a824214450174406f79c",
+     "fieldLabel": "Employment Type",
+     "valueId": "9",
+     "valueLabel": "Employee"
+    },
+    {
+     "fieldId": "6a33ccaa0f2acdd461645977",
+     "fieldLabel": "C-Level",
+     "valueId": "23214",
+     "valueLabel": "Gil Friedrich"
+    },
+    {
+     "fieldId": "6a21a790b89f6c3d3b565ae2",
+     "fieldLabel": "Region",
+     "valueId": "100",
+     "valueLabel": "IL"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/CheckPointSoftwareTechnologies2/postings/744000160804787",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  },
+  {
+   "id": "744000160600426",
+   "name": "Manager, Executive Office Team - Maternity Leave Replacement",
+   "uuid": "940a8672-266b-4271-afda-8a7ba21a2b6b",
+   "jobAdId": "abe5d9ac-d4e8-476b-ba48-9ef24f7b51ba",
+   "defaultJobAd": true,
+   "refNumber": "REF616K",
+   "company": {
+    "identifier": "CheckPointSoftwareTechnologies2",
+    "name": "Check Point Software Technologies"
+   },
+   "releasedDate": "2026-11-09T12:23:28.246Z",
+   "location": {
+    "city": "Tel Aviv-Yafo",
+    "region": "Tel Aviv District",
+    "country": "il",
+    "remote": false,
+    "hybrid": false,
+    "latitude": "32.0852999",
+    "longitude": "34.78176759999999",
+    "fullLocation": "Tel Aviv-Yafo, Tel Aviv District, Israel"
+   },
+   "industry": {
+    "id": "computer_software",
+    "label": "Computer Software"
+   },
+   "department": {},
+   "function": {
+    "id": "administrative",
+    "label": "Administrative"
+   },
+   "typeOfEmployment": {
+    "id": "permanent",
+    "label": "Full-time"
+   },
+   "experienceLevel": {
+    "id": "associate",
+    "label": "Associate"
+   },
+   "customField": [
+    {
+     "fieldId": "6a21aa1206dc5007efef6da3",
+     "fieldLabel": "Employment Percentage",
+     "valueId": "100",
+     "valueLabel": "100%"
+    },
+    {
+     "fieldId": "6a21a72e57f3707f05fe7c96",
+     "fieldLabel": "CP Department",
+     "valueId": "23",
+     "valueLabel": "Human Resources"
+    },
+    {
+     "fieldId": "6a21a7d2311f6c9c65f6d0c9",
+     "fieldLabel": "Office Location",
+     "valueId": "97203",
+     "valueLabel": "Tel-Aviv"
+    },
+    {
+     "fieldId": "6a21ad5ef46fc3803795b44e",
+     "fieldLabel": "HRP",
+     "valueId": "9007",
+     "valueLabel": "Michal Azulai"
+    },
+    {
+     "fieldId": "6a2a844349a1a3a8872e7750",
+     "fieldLabel": "Evergreen Job",
+     "valueId": "432cfa9d-a08c-4d7a-90ad-6498284f4d8c",
+     "valueLabel": "No"
+    },
+    {
+     "fieldId": "6aa7bce541de471b23dcd35d",
+     "fieldLabel": "Cost Center",
+     "valueId": "1605",
+     "valueLabel": "HR Direct (1605)"
+    },
+    {
+     "fieldId": "6a21b4a18c40edfe81d1d604",
+     "fieldLabel": "Career site Category",
+     "valueId": "29",
+     "valueLabel": "Administration"
+    },
+    {
+     "fieldId": "6a86a07dbc112cc8da711786",
+     "fieldLabel": "Sub-Region",
+     "valueId": "12",
+     "valueLabel": "Israel"
+    },
+    {
+     "fieldId": "6a21ad14311f6c9c65f6d0ca",
+     "fieldLabel": "Referral Category",
+     "valueId": "0",
+     "valueLabel": "Standard Position"
+    },
+    {
+     "fieldId": "6a21a7591f561247defa7adb",
+     "fieldLabel": "Team",
+     "valueId": "9046206",
+     "valueLabel": "HR Corporate Functions and Employee Experience (Alma Shiran)"
+    },
+    {
+     "fieldId": "COUNTRY",
+     "fieldLabel": "Country/Region",
+     "valueId": "il",
+     "valueLabel": "Israel"
+    },
+    {
+     "fieldId": "69fb2260d32371e2f69d4e72",
+     "fieldLabel": "Brands",
+     "valueId": "default",
+     "valueLabel": "Check Point Software Technologies"
+    },
+    {
+     "fieldId": "6a21a824214450174406f79c",
+     "fieldLabel": "Employment Type",
+     "valueId": "9",
+     "valueLabel": "Employee"
+    },
+    {
+     "fieldId": "6a33ccaa0f2acdd461645977",
+     "fieldLabel": "C-Level",
+     "valueId": "30735",
+     "valueLabel": "Sigal Gillmore"
+    },
+    {
+     "fieldId": "6a21a790b89f6c3d3b565ae2",
+     "fieldLabel": "Region",
+     "valueId": "100",
+     "valueLabel": "IL"
+    }
+   ],
+   "visibility": "PUBLIC",
+   "ref": "https://api.smartrecruiters.com/v1/companies/CheckPointSoftwareTechnologies2/postings/744000160600426",
+   "language": {
+    "code": "en",
+    "label": "English",
+    "labelNative": "English (US)"
+   }
+  }
+ ]
+}

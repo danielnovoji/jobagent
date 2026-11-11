@@ -1,0 +1,64 @@
+From: LinkedIn Job Alerts <jobalerts-noreply@linkedin.com>
+To: me@example.com
+Subject: 3 new jobs for "C++ engineer" near Israel
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="boundary42"
+
+--boundary42
+Content-Type: text/plain; charset=utf-8
+
+3 new jobs matching your alert
+
+Software Engineer - Systems
+Nvidia · Tel Aviv, Israel (Hybrid)
+https://www.linkedin.com/comm/jobs/view/3456789012/?alertAction=view
+
+C++ Developer
+Intel · Petah Tikva, Israel
+https://www.linkedin.com/comm/jobs/view/9876543210/?alertAction=view
+
+Embedded Software Engineer
+KLA · Migdal HaEmek, Israel
+https://www.linkedin.com/comm/jobs/view/1122334455/?alertAction=view
+
+--boundary42
+Content-Type: text/html; charset=utf-8
+
+<html>
+<body>
+<table cellpadding="0" cellspacing="0" width="100%">
+  <tr>
+    <td>
+      <table>
+        <tr>
+          <td>
+            <a href="https://www.linkedin.com/comm/jobs/view/3456789012/?alertAction=view&amp;savedSearchId=999">
+              Software Engineer - Systems
+            </a>
+            <p>Nvidia &middot; Tel Aviv, Israel (Hybrid)</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://www.linkedin.com/comm/jobs/view/9876543210/?alertAction=view&amp;savedSearchId=999">
+              C++ Developer
+            </a>
+            <p>Intel &middot; Petah Tikva, Israel</p>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            <a href="https://www.linkedin.com/comm/jobs/view/1122334455/?alertAction=view&amp;savedSearchId=999">
+              Embedded Software Engineer
+            </a>
+            <p>KLA &middot; Migdal HaEmek, Israel</p>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+</body>
+</html>
+
+--boundary42--

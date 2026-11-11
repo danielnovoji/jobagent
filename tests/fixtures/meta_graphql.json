@@ -1,0 +1,24 @@
+{
+  "data": {
+    "job_search": {
+      "results": [
+        {
+          "id": "a1K2R000003DXXX",
+          "title": "Software Engineer, Backend",
+          "location": "Tel Aviv, Israel",
+          "team": "Engineering",
+          "commitment": "Full-Time",
+          "apply_link": "https://www.metacareers.com/jobs/a1K2R000003DXXX/"
+        },
+        {
+          "id": "a1K2R000003DYYY",
+          "title": "Production Engineer",
+          "location": "Tel Aviv, Israel",
+          "team": "Infrastructure",
+          "commitment": "Full-Time",
+          "apply_link": "https://www.metacareers.com/jobs/a1K2R000003DYYY/"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,20 @@
+services:
+  jobagent:
+    build: .
+    env_file: .env
+    volumes:
+      - ./data:/app/data        # SQLite database (persisted)
+      - ./out:/app/out          # rendered CV PDFs (persisted)
+      - ./secrets:/app/secrets:ro  # Google service account key (read-only)
+    environment:
+      # Override the host-side path to the fixed in-container path
+      GOOGLE_SERVICE_ACCOUNT_FILE: /app/secrets/sa.json
+      # Sheet dates and "today" counts use the local date; the image defaults to UTC,
+      # which stamps an application at 01:00 Israel time with yesterday's date.
+      TZ: Asia/Jerusalem
+    restart: unless-stopped
+    logging:  # a 24/7 container's log otherwise grows until the disk is full
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"

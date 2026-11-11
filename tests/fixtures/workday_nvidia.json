@@ -1,0 +1,29 @@
+{
+  "total": 3,
+  "jobPostings": [
+    {
+      "title": "Software Engineer, Networking",
+      "locationsText": "Israel, Tel Aviv",
+      "postedOn": "Posted 3 Days Ago",
+      "externalPath": "/job/Israel-Tel-Aviv/Software-Engineer-Networking_JR1935345",
+      "bulletFields": ["C++ experience required", "Networking background preferred"],
+      "jobPostingId": "JR1935345"
+    },
+    {
+      "title": "Senior Software Engineer, CUDA",
+      "locationsText": "Israel, Tel Aviv",
+      "postedOn": "Posted 1 Days Ago",
+      "externalPath": "/job/Israel-Tel-Aviv/Senior-Software-Engineer-CUDA_JR1234567",
+      "bulletFields": ["GPU programming experience"],
+      "jobPostingId": "JR1234567"
+    },
+    {
+      "title": "Software Engineer, AI",
+      "locationsText": "United States, Santa Clara",
+      "postedOn": "Posted Today",
+      "externalPath": "/job/US-Santa-Clara/Software-Engineer-AI_JR9999999",
+      "bulletFields": ["Python required"],
+      "jobPostingId": "JR9999999"
+    }
+  ]
+}

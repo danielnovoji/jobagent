@@ -1,0 +1,134 @@
+# EXAMPLE master CV with a fictional person. Copy to cv/master.yaml (gitignored) and replace
+# every fact with your own: the agent refuses to run without cv/master.yaml, so this
+# example can never be sent to an employer by accident.
+#
+# Master CV: single source of truth.
+# Every fact lives here once. Variants only choose WHAT to show and in what order.
+# The agent may only replace `title` and `summary` per role. Nothing else is LLM-editable.
+#
+# Rules:
+#   - verified: false  -> item is never rendered (and never fed to the LLM) until you confirm it.
+#   - No en/em dashes anywhere. Dates are years only.
+
+contact:
+  name: ALEX EXAMPLE
+  location: Israel
+  phone: "(+972) 50-000-0000"
+  email: alex@example.com
+  linkedin: linkedin.com/in/example
+  github: github.com/example
+
+skill_groups:
+  languages_systems:   {label: Languages, items: [C, C++ (17), Python, JavaScript, SQL]}
+  languages_web:       {label: Languages, items: [JavaScript, TypeScript, Python, C++, SQL]}
+  systems:
+    label: Systems Programming
+    items: [Multithreading, POSIX threads, synchronization, IPC, sockets, Linux]
+  systems_short:
+    label: Systems
+    items: [Multithreading, sockets, Linux]
+  backend_web:
+    label: Backend & Web
+    items: [Node.js, Express, REST APIs, React.js, Django]
+  frontend:            {label: Frontend, items: [React.js, HTML, CSS]}
+  backend:             {label: Backend, items: [Node.js, Express, REST APIs, Django]}
+  databases_systems:   {label: Databases, items: [PostgreSQL, SQLite]}
+  databases_web:       {label: Databases, items: [PostgreSQL, MongoDB]}
+  tools_systems:       {label: Tools, items: [Git, Docker, CMake, GDB, Valgrind, Linux]}
+  tools_web:           {label: Tools, items: [Git, Docker, Postman]}
+
+# Skills that exist but need a refresh before an interview. The agent adds a prep note
+# to the Telegram message when a role leans on one of these.
+needs_review: [Django]
+
+experience:
+  - id: example_intern
+    role: Software Intern
+    org: Example Corp
+    years: 2024-2025
+    bullets:
+      - Developed internal tools in Python for parsing and summarizing service logs.
+      - Wrote unit tests and fixed bugs in a Node.js REST API used by the support team.
+
+projects:
+  thread_pool:
+    name: Thread Pool
+    tech: C++
+    bullets:
+      - Implemented a fixed-size thread pool with a thread-safe task queue and clean shutdown.
+
+  http_server:
+    name: Minimal HTTP Server
+    tech: C
+    bullets:
+      - Wrote a small HTTP/1.1 server on POSIX sockets that serves static files to concurrent clients.
+
+  kv_store:
+    name: Key-Value Store
+    tech: C++
+    bullets:
+      - Built an in-memory key-value store with a text protocol over TCP and a simple command-line client.
+
+  notes_app:
+    name: Notes Web App
+    tech: React, Node.js, PostgreSQL
+    bullets:
+      - Built a full-stack notes app with a React front end, an Express REST API, and PostgreSQL storage.
+      - Added login with hashed passwords and per-user access checks on every API route.
+
+education:
+  - id: bsc
+    degree: BSc Computer Science
+    org: Example University
+    years: 2021-2024
+    coursework:
+      systems: [Operating Systems, Data Structures, Computer Networks]
+      web: [Web Development, Databases, Data Structures]
+    grades: "Operating Systems (90), Data Structures (88)"
+
+# Optional section: delete it if it doesn't apply.
+military:
+  role: Example Role, Example Unit
+  org: Example Service
+  years: 2018-2021
+  note: Led a small team. Fictional entry that shows the format.
+
+# ---------------------------------------------------------------------------
+# Variants: the agent picks one per role, then overrides title + summary only.
+# ---------------------------------------------------------------------------
+variants:
+  systems:
+    title: Software Engineer
+    summary: >-
+      Computer Science graduate with hands-on C and C++ experience on Linux. Built a thread pool,
+      a minimal HTTP server, and a key-value store over TCP, working with threads and sockets.
+    skills: [languages_systems, systems, backend_web, databases_systems, tools_systems]
+    projects: [thread_pool, http_server, kv_store]
+    coursework: systems
+
+  hft:
+    title: C++ Software Engineer
+    summary: >-
+      Computer Science graduate focused on C++ on Linux, with projects in concurrency and networking:
+      a thread pool and a key-value store over TCP.
+    skills: [languages_systems, systems, tools_systems, databases_systems]
+    projects: [kv_store, thread_pool, http_server]
+    coursework: systems
+
+  embedded_linux:
+    title: C/C++ Software Engineer
+    summary: >-
+      Computer Science graduate with C and C++ development on Linux, including a socket-based HTTP server
+      and a thread pool.
+    skills: [languages_systems, systems, tools_systems]
+    projects: [http_server, thread_pool, kv_store]
+    coursework: systems
+
+  fullstack:
+    title: "Full-Stack Developer | React, Node.js"
+    summary: >-
+      Full-stack developer working with React, Node.js, and PostgreSQL. Built a notes web app with
+      authenticated REST APIs, and wrote internal tools during an internship at Example Corp.
+    skills: [languages_web, frontend, backend, databases_web, systems_short, tools_web]
+    projects: [notes_app, thread_pool]
+    coursework: web

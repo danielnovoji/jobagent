@@ -1,0 +1,4 @@
+#!/bin/sh
+# Leak guard (scripts/leakguard.py): checks every commit being pushed, plus author emails.
+# Git passes the refs on stdin; exec keeps that stdin for the script.
+exec python3 "$(git rev-parse --show-toplevel)/scripts/leakguard.py" push "$1"

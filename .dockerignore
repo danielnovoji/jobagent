@@ -1,0 +1,13 @@
+.env
+secrets/
+data/
+out/
+.venv/
+__pycache__/
+*.pyc
+.git/
+*.egg-info/
+CLAUDE.local.md
+.leakguard-denylist
+.claude/
+.githooks/

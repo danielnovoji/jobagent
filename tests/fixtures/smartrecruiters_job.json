@@ -1,0 +1,37 @@
+{
+ "id": "744000160804787",
+ "name": "Software Engineer ",
+ "location": {
+  "city": "Tel Aviv-Yafo",
+  "region": "Tel Aviv District",
+  "country": "il",
+  "remote": false,
+  "hybrid": true,
+  "latitude": "32.0852999",
+  "longitude": "34.78176759999999",
+  "fullLocation": "Tel Aviv-Yafo, Tel Aviv District, Israel"
+ },
+ "postingUrl": "https://jobs.smartrecruiters.com/CheckPointSoftwareTechnologies2/744000160804787-software-engineer-",
+ "applyUrl": "https://jobs.smartrecruiters.com/CheckPointSoftwareTechnologies2/744000160804787-software-engineer-?oga=true",
+ "jobAd": {
+  "sections": {
+   "companyDescription": {
+    "title": "Company Description",
+    "text": "<p>At Check Point, what you do matters. Every day, we protect over 100,000 organizations worldwide from increasingly sophisticated cyber and AI-driven threats, securing their AI transformation.<br>\n<br>\nOur prevention-first approach safeguards hybrid networks, cloud environments, digital workspaces, and AI systems, stopping attacks before they happen.<br>\n<br>\nThis is where innovation meets real-world impact. You’ll help customers across industries operate with confidence in a rapidly changing digital world, working alongside smart, curious people who take ownership, challenge assumptions, and solve complex problems.<br>\n<br>\nWe’re proud to be recognized by TIME, Newsweek, and Forbes for excellence and workplace culture.<br>\n<br>\nWhat really sets Check Point apart is the opportunity to grow, contribute, and help companies navigate their AI transformation securely.<br>\n<br>\nIf you’re excited to work at the forefront of AI-driven security on a global scale, this is the place to do it.</p>"
+   },
+   "jobDescription": {
+    "title": "Job Description",
+    "text": "<p>We're a <strong>next-gen XDR product</strong> that leverages data from all points of the organization using cutting-edge big data frameworks, advanced ML pipelines, and unparalleled cybersecurity insights to deliver the future of cyber prevention, detection, and response.&#xa0;&#xa0;</p><p>We're looking for a highly motivated and talented <strong>Full Stack Engineer </strong>to join our growing core team in a start-up-like environment that will help&#xa0;design, develop, and deliver our novel cyber security solution.</p><ul><li>Build new and exciting components in an ever-growing and evolving&#xa0;XDR&#xa0;to provide scale and productivity.</li><li>Rapidly deliver high-quality, scalable, enterprise-ready SaaS application.</li><li>Take part in decision-making, architecture design &amp; technology research.</li><li>Drive infrastructure initiatives and implement robust and scalable solutions.</li><li>Make design decisions on the basis of performance, scalability, and future expansion.</li></ul><p>&#xa0;</p>"
+   },
+   "qualifications": {
+    "title": "Qualifications",
+    "text": "<ul><li>At least 4 years of experience as a<strong>&#xa0;Software Engineer</strong>.</li><li>Experience with<strong>&#xa0;Node.js and react</strong></li><li>BSc in Computer Science/Software Engineering or equivalent knowledge.</li><li>Deep understanding of computer science principles, design patterns, and high-level analytical skills.</li><li>Experience with Rest API, No-SQL databases, Microservices, and highly scalable systems.</li><li>Experience with JavaScript, CSS, HTML (latest versions).</li><li>Deep familiarity with cloud infrastructures and architectures.</li><li>Team Player, accountable, dedicated, and passionate about coding standards.</li><li>Eager and able to quickly master new technologies.</li></ul>"
+   },
+   "additionalInformation": {
+    "title": "Additional Information",
+    "text": ""
+   }
+  }
+ },
+ "refNumber": "REF319Q"
+}

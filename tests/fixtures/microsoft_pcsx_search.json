@@ -1,0 +1,88 @@
+{
+ "status": 200,
+ "error": {
+  "message": "",
+  "body": ""
+ },
+ "data": {
+  "positions": [
+   {
+    "id": 1970393557054159,
+    "displayJobId": "200065756",
+    "name": "Product Manager & Senior Product Manager - Microsoft Security - Multiple Roles",
+    "locations": [
+     "Israel, Multiple Locations, Multiple Locations"
+    ],
+    "standardizedLocations": [
+     "IL"
+    ],
+    "postedTs": 1793882525,
+    "solrScore": null,
+    "stars": 0,
+    "department": "Product Management",
+    "creationTs": 1793859330,
+    "isHot": 0,
+    "workLocationOption": "onsite",
+    "locationFlexibility": null,
+    "atsJobId": "200065756",
+    "positionUrl": "/careers/job/1970393557054159"
+   },
+   {
+    "id": 1970393557026079,
+    "displayJobId": "200060190",
+    "name": "Principal Threat Intelligence Manager",
+    "locations": [
+     "Israel, Multiple Locations, Multiple Locations",
+     "Israel, Tel Aviv, Herzliya",
+     "Israel, Tel Aviv, Tel Aviv",
+     "Israel, Southern, Beer-Sheva",
+     "Israel, Haifa, Haifa",
+     "Israel, Northern, Nazareth",
+     "Israel, Central, Jerusalem"
+    ],
+    "standardizedLocations": [
+     "IL",
+     "Herzliya, Tel Aviv District, IL",
+     "Tel Aviv-Yafo, Tel Aviv District, IL",
+     "ב\"ש, South District, IL",
+     "Haifa, Haifa District, IL",
+     "Nazareth, North District, IL",
+     "Jerusalem, Jerusalem District, IL"
+    ],
+    "postedTs": 1792069472,
+    "solrScore": null,
+    "stars": 0,
+    "department": "Security Research",
+    "creationTs": 1791327407,
+    "isHot": 0,
+    "workLocationOption": "onsite",
+    "locationFlexibility": null,
+    "atsJobId": "200060190",
+    "positionUrl": "/careers/job/1970393557026079"
+   },
+   {
+    "id": 1970393557038901,
+    "displayJobId": "200061418",
+    "name": "Hardware Verification Engineer - Microsoft Azure",
+    "locations": [
+     "Israel, Multiple Locations, Multiple Locations"
+    ],
+    "standardizedLocations": [
+     "IL"
+    ],
+    "postedTs": 1793609924,
+    "solrScore": null,
+    "stars": 0,
+    "department": "Hardware Engineering",
+    "creationTs": 1791817753,
+    "isHot": 0,
+    "workLocationOption": "onsite",
+    "locationFlexibility": null,
+    "atsJobId": "200061418",
+    "positionUrl": "/careers/job/1970393557038901"
+   }
+  ],
+  "count": 21
+ },
+ "metadata": null
+}

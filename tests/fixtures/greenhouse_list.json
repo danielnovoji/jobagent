@@ -1,0 +1,187 @@
+{
+ "jobs": [
+  {
+   "absolute_url": "https://join.jfrog.com/job/?job=7480202&gh_jid=7480202",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 3319930,
+   "location": {
+    "name": "Taipei, Taiwan"
+   },
+   "metadata": [
+    {
+     "id": 141180,
+     "name": "Referral Bonus",
+     "value": "800",
+     "value_type": "short_text"
+    },
+    {
+     "id": 53850829,
+     "name": "Posting the job on the Referral website",
+     "value": true,
+     "value_type": "yes_no"
+    },
+    {
+     "id": 53909460,
+     "name": "Display public website",
+     "value": true,
+     "value_type": "yes_no"
+    }
+   ],
+   "id": 7480202,
+   "updated_at": "2026-10-08T05:05:17-04:00",
+   "requisition_id": "3413",
+   "title": "Account Executive",
+   "company_name": "JFrog",
+   "first_published": "2025-12-22T22:48:42-05:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://join.jfrog.com/job/?job=7939091&gh_jid=7939091",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 3449332,
+   "location": {
+    "name": "Tel Aviv/ Netanya, Israel"
+   },
+   "metadata": [
+    {
+     "id": 141180,
+     "name": "Referral Bonus",
+     "value": "2000",
+     "value_type": "short_text"
+    },
+    {
+     "id": 53850829,
+     "name": "Posting the job on the Referral website",
+     "value": true,
+     "value_type": "yes_no"
+    },
+    {
+     "id": 53909460,
+     "name": "Display public website",
+     "value": true,
+     "value_type": "yes_no"
+    }
+   ],
+   "id": 7939091,
+   "updated_at": "2026-10-26T06:22:19-04:00",
+   "requisition_id": "3687",
+   "title": "AI Fullstack Engineer - Competitive Intelligence",
+   "company_name": "JFrog",
+   "first_published": "2026-05-24T03:20:15-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://join.jfrog.com/job/?job=7939091&gh_jid=7939091",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 3449332,
+   "location": {
+    "name": "Tel Aviv/ Netanya, Israel"
+   },
+   "metadata": [
+    {
+     "id": 141180,
+     "name": "Referral Bonus",
+     "value": "2000",
+     "value_type": "short_text"
+    },
+    {
+     "id": 53850829,
+     "name": "Posting the job on the Referral website",
+     "value": true,
+     "value_type": "yes_no"
+    },
+    {
+     "id": 53909460,
+     "name": "Display public website",
+     "value": true,
+     "value_type": "yes_no"
+    }
+   ],
+   "id": 7939091,
+   "updated_at": "2026-10-26T06:22:19-04:00",
+   "requisition_id": "3687",
+   "title": "AI Fullstack Engineer - Competitive Intelligence",
+   "company_name": "JFrog",
+   "first_published": "2026-05-24T03:20:15-04:00",
+   "language": "en",
+   "application_deadline": null
+  },
+  {
+   "absolute_url": "https://join.jfrog.com/job/?job=7694707&gh_jid=7694707",
+   "data_compliance": [
+    {
+     "type": "gdpr",
+     "requires_consent": false,
+     "requires_processing_consent": false,
+     "requires_retention_consent": false,
+     "retention_period": null,
+     "demographic_data_consent_applies": false
+    }
+   ],
+   "internal_job_id": 3382975,
+   "location": {
+    "name": "Tel Aviv/ Netanya, Israel"
+   },
+   "metadata": [
+    {
+     "id": 141180,
+     "name": "Referral Bonus",
+     "value": "2000",
+     "value_type": "short_text"
+    },
+    {
+     "id": 53850829,
+     "name": "Posting the job on the Referral website",
+     "value": true,
+     "value_type": "yes_no"
+    },
+    {
+     "id": 53909460,
+     "name": "Display public website",
+     "value": true,
+     "value_type": "yes_no"
+    }
+   ],
+   "id": 7694707,
+   "updated_at": "2026-11-08T09:27:32-05:00",
+   "requisition_id": "3568",
+   "title": "Business Development Representative ",
+   "company_name": "JFrog",
+   "first_published": "2026-03-10T05:26:25-04:00",
+   "language": "en",
+   "application_deadline": null
+  }
+ ],
+ "meta": {
+  "total": 73
+ }
+}

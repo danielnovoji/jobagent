@@ -1,0 +1,31 @@
+# --- Secrets: never commit (scripts/leakguard.py also blocks these paths) ---
+.env
+.env.*
+!.env.example
+secrets/*
+!secrets/.gitkeep
+*.pem
+*.key
+*.p12
+
+# --- Personal data: real CV, private notes, leak-guard denylist ---
+cv/master.yaml
+CLAUDE.local.md
+.leakguard-denylist
+
+# --- Runtime data (SQLite, rendered CVs, logs) ---
+data/
+out/
+*.db
+*.sqlite
+*.sqlite3
+*.pdf
+*.docx
+*.log
+
+# --- Local tooling ---
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.claude/
